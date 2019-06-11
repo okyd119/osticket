@@ -1,7 +1,7 @@
         </div>
     </div>
     <div id="footer">
-        <p>Copyright &copy; <?php echo date('Y'); ?> <?php echo (string) $ost->company ?: 'osTicket.com'; ?> - All rights reserved. Run on Azure</p>
+        <p>Copyright &copy; <?php echo date('Y'); ?> <?php echo (string) $ost->company ?: 'osTicket.com'; ?> - All rights reserved.This is second SWAP test.  Run on Azure</p>
         <a id="poweredBy" href="http://osticket.com" target="_blank"><?php echo __('Helpdesk software - powered by MS Azure'); ?></a>
     </div>
 <div id="overlay"></div>
